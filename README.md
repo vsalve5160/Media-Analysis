@@ -134,7 +134,7 @@ Queries include:
 * **Google** received high clicks but moderate conversions — indicates landing page improvement needed.
 * **LinkedIn** shows high engagement rate due to professional audience targeting.
 
-*(You can adjust insights based on your actual analysis)*
+
 
 ---
 
