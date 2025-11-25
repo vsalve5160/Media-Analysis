@@ -24,7 +24,7 @@ This project solves that by performing **data cleaning, analysis, visualization,
 📁 Media Ads Performance Analysis
 │
 ├── 📊 excel/
-│      ├── <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/Facebook%20.xlsx">Facebook.xlsx<a/>
+│      ├── Facebook.xlsx
 │      ├── Google dashboard.xlsx
 │      └── Linkedin dashboard.xlsx
 │
@@ -78,15 +78,15 @@ Three separate datasets:
 ### **1️⃣ Excel Dashboards (3 dashboards)**
 
 * <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/Facebook%20.xlsx">Facebook Ad Performance.xlsx<a/>
-* Google Ad Insights
-* LinkedIn Ad Engagement
+* <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/Google%20dashboard.xlsx">Google Ad Insights<a/>
+* <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/Linkedin%20dashboard.xlsx">LinkedIn Ad Engagement<a/>
 * KPIs: CTR, CPC, CPL, CPP, Conversions, Engagement Rate
 
 ---
 
 ### **2️⃣ Power BI Dashboard**
 
-* Combined multi-platform dashboard
+* <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/facebook%20google%20linkedin.pbix">Combined multi-platform dashboard<a/>
 * Year-wise & platform-wise comparison
 * Custom DAX for:
 
@@ -102,10 +102,14 @@ Three separate datasets:
 
 * Separate dashboards for:
 
-  * Facebook
-  * Google
-  * LinkedIn
+  * <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/facebook.twbx">Facebook<a/>
+  * <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/Google.twbx">Google<a/>
+  * <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/Linkedin%20dashboard%20tableau.twbx">LinkedIn<a/>
 * Heatmaps, bar charts, KPIs, campaign comparison
+
+  
+### *  media analysis ppt
+   * <a href="https://github.com/vsalve5160/Media-Analysis/blob/main/media%20analysis%20new.pptx"> View Final PPT<a/>
 
 ---
 
